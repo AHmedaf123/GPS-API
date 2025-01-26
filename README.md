@@ -1,32 +1,55 @@
-Backend Development with Python
-Objective: Design and implement a simple backend system to store and process data using Python, with the ability to handle high-frequency data.
+GPS API - FastAPI Backend
+Overview
+A simple FastAPI backend to store and process GPS data. Includes endpoints for uploading GPS coordinates, retrieving stored data, and calculating the average latitude and longitude.
 
-Description:
-1. Step 1: Design a Backend System  
-   - Use ChatGPT to figure out how to design a basic backend system.
-   - Define an API that includes endpoints for:
-     - Uploading data (e.g., sensor readings or GPS coordinates).
-     - Retrieving processed data.
+Installation
+Clone or Download the project.
 
-2. Step 2: Simulate Data Generation  
-   - Write a Python script to simulate the generation of random data in real time.  
-     Example: Random GPS data generation.
-     ```json
-     {
-       "timestamp": "2025-01-23T12:00:00Z",
-       "latitude": 52.5200,
-       "longitude": 13.4050
-     }
-     ```
+Install Dependencies:
 
-3. Step 3: Implement the Backend  
-   - Use a framework like Flask or FastAPI to build the backend.
-   - Add basic data processing functionality, such as:
-     - Storing data in memory or a simple file.
-     - Calculating a summary (e.g., the average latitude/longitude over time).
+bash
+Copy
+Edit
+pip install fastapi uvicorn
+Running the API
+Start the server:
 
-4. Step 4: Test the System  
-   - Create a Python script to send requests to the API (e.g., POST and GET) and validate its functionality.
+bash
+Copy
+Edit
+uvicorn gps_api:app --reload
+Access the API at http://127.0.0.1:8000.
 
-5. Step 5: Document Results  
-   - Provide an explanation of how the backend was implemented, including code snippets and any challenges faced.
+Endpoints
+POST /upload: Upload a list of GPS data (timestamp, latitude, longitude).
+
+GET /data: Retrieve all uploaded GPS data.
+
+GET /summary: Get the average latitude and longitude of uploaded data.
+
+Example Usage
+Upload Data (POST)
+python
+Copy
+Edit
+import requests
+
+url = "http://127.0.0.1:8000/upload"
+data = [
+    {"timestamp": "2025-01-23T12:00:00Z", "latitude": 52.5200, "longitude": 13.4050},
+    {"timestamp": "2025-01-23T12:05:00Z", "latitude": 48.8566, "longitude": 2.3522}
+]
+response = requests.post(url, json=data)
+print(response.json())
+Retrieve Data (GET)
+bash
+Copy
+Edit
+curl http://127.0.0.1:8000/data
+Summary (GET)
+bash
+Copy
+Edit
+curl http://127.0.0.1:8000/summary
+License
+MIT License.
