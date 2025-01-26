@@ -1,0 +1,672 @@
+[
+    {
+        "timestamp": "2025-01-25T13:44:49.932367Z",
+        "latitude": 57.741638,
+        "longitude": -88.206485
+    },
+    {
+        "timestamp": "2025-01-25T13:44:50.933333Z",
+        "latitude": -14.159383,
+        "longitude": 0.76336
+    },
+    {
+        "timestamp": "2025-01-25T13:44:51.934953Z",
+        "latitude": 48.893405,
+        "longitude": -119.833274
+    },
+    {
+        "timestamp": "2025-01-25T13:44:52.936659Z",
+        "latitude": 46.426575,
+        "longitude": -10.90294
+    },
+    {
+        "timestamp": "2025-01-25T13:44:53.938366Z",
+        "latitude": 12.648013,
+        "longitude": -176.381278
+    },
+    {
+        "timestamp": "2025-01-25T13:44:54.939003Z",
+        "latitude": 3.536429,
+        "longitude": -52.506772
+    },
+    {
+        "timestamp": "2025-01-25T13:44:55.940365Z",
+        "latitude": -21.962533,
+        "longitude": -121.873465
+    },
+    {
+        "timestamp": "2025-01-25T13:44:56.942080Z",
+        "latitude": -80.642791,
+        "longitude": -3.562756
+    },
+    {
+        "timestamp": "2025-01-25T13:44:57.944048Z",
+        "latitude": -20.335209,
+        "longitude": -98.198912
+    },
+    {
+        "timestamp": "2025-01-25T13:44:58.945866Z",
+        "latitude": -71.544217,
+        "longitude": -15.899942
+    },
+    {
+        "timestamp": "2025-01-25T13:44:59.946661Z",
+        "latitude": 5.004723,
+        "longitude": 168.766216
+    },
+    {
+        "timestamp": "2025-01-25T13:45:00.948491Z",
+        "latitude": 28.344974,
+        "longitude": 25.87957
+    },
+    {
+        "timestamp": "2025-01-25T13:45:01.949657Z",
+        "latitude": 70.159126,
+        "longitude": -22.725517
+    },
+    {
+        "timestamp": "2025-01-25T13:45:02.951222Z",
+        "latitude": -42.775101,
+        "longitude": 26.149711
+    },
+    {
+        "timestamp": "2025-01-25T13:45:03.952841Z",
+        "latitude": -54.746312,
+        "longitude": -100.683087
+    },
+    {
+        "timestamp": "2025-01-25T13:45:04.954752Z",
+        "latitude": -53.63332,
+        "longitude": -83.042621
+    },
+    {
+        "timestamp": "2025-01-25T13:45:05.956675Z",
+        "latitude": -88.771497,
+        "longitude": 176.411158
+    },
+    {
+        "timestamp": "2025-01-25T13:45:06.958605Z",
+        "latitude": -2.609474,
+        "longitude": -167.927043
+    },
+    {
+        "timestamp": "2025-01-25T13:45:07.960336Z",
+        "latitude": -35.345787,
+        "longitude": 34.12844
+    },
+    {
+        "timestamp": "2025-01-25T13:45:08.962250Z",
+        "latitude": -35.753451,
+        "longitude": 13.518188
+    },
+    {
+        "timestamp": "2025-01-25T13:45:09.963952Z",
+        "latitude": -32.557365,
+        "longitude": 16.121414
+    },
+    {
+        "timestamp": "2025-01-25T13:45:10.965716Z",
+        "latitude": -66.803771,
+        "longitude": 89.306513
+    },
+    {
+        "timestamp": "2025-01-25T13:45:11.967468Z",
+        "latitude": 86.932769,
+        "longitude": -60.081555
+    },
+    {
+        "timestamp": "2025-01-25T13:45:12.968514Z",
+        "latitude": 16.31076,
+        "longitude": -82.402862
+    },
+    {
+        "timestamp": "2025-01-25T13:45:13.970603Z",
+        "latitude": -83.00812,
+        "longitude": 77.843184
+    },
+    {
+        "timestamp": "2025-01-25T13:45:14.972307Z",
+        "latitude": 80.513067,
+        "longitude": -119.096776
+    },
+    {
+        "timestamp": "2025-01-25T13:45:15.974241Z",
+        "latitude": 30.029216,
+        "longitude": 7.20413
+    },
+    {
+        "timestamp": "2025-01-25T13:45:16.975960Z",
+        "latitude": -23.570936,
+        "longitude": -159.412241
+    },
+    {
+        "timestamp": "2025-01-25T13:45:17.977658Z",
+        "latitude": 87.11411,
+        "longitude": 123.216844
+    },
+    {
+        "timestamp": "2025-01-25T13:45:18.979392Z",
+        "latitude": -75.368484,
+        "longitude": 18.397299
+    },
+    {
+        "timestamp": "2025-01-25T13:45:19.981064Z",
+        "latitude": 18.837901,
+        "longitude": 122.883989
+    },
+    {
+        "timestamp": "2025-01-25T13:45:20.982934Z",
+        "latitude": -64.018414,
+        "longitude": 70.774687
+    },
+    {
+        "timestamp": "2025-01-25T13:45:21.984753Z",
+        "latitude": -20.110702,
+        "longitude": 113.839405
+    },
+    {
+        "timestamp": "2025-01-25T13:45:22.986476Z",
+        "latitude": -1.827618,
+        "longitude": 127.487028
+    },
+    {
+        "timestamp": "2025-01-25T13:45:23.988359Z",
+        "latitude": 76.897804,
+        "longitude": 106.119351
+    },
+    {
+        "timestamp": "2025-01-25T13:45:24.989804Z",
+        "latitude": 5.166754,
+        "longitude": 79.248201
+    },
+    {
+        "timestamp": "2025-01-25T13:45:25.991512Z",
+        "latitude": 8.454042,
+        "longitude": 94.948814
+    },
+    {
+        "timestamp": "2025-01-25T13:45:26.993316Z",
+        "latitude": 19.261179,
+        "longitude": -149.782445
+    },
+    {
+        "timestamp": "2025-01-25T13:45:27.995546Z",
+        "latitude": 88.002247,
+        "longitude": 25.824507
+    },
+    {
+        "timestamp": "2025-01-25T13:45:28.998052Z",
+        "latitude": 3.99825,
+        "longitude": 179.778366
+    },
+    {
+        "timestamp": "2025-01-25T13:45:30.000046Z",
+        "latitude": 78.1958,
+        "longitude": 75.061722
+    },
+    {
+        "timestamp": "2025-01-25T13:45:31.001950Z",
+        "latitude": 85.951602,
+        "longitude": -32.045935
+    },
+    {
+        "timestamp": "2025-01-25T13:45:32.003991Z",
+        "latitude": -81.244252,
+        "longitude": -92.493352
+    },
+    {
+        "timestamp": "2025-01-25T13:45:33.006050Z",
+        "latitude": 18.009236,
+        "longitude": 134.711173
+    },
+    {
+        "timestamp": "2025-01-25T13:45:34.007970Z",
+        "latitude": -65.086977,
+        "longitude": -144.049294
+    },
+    {
+        "timestamp": "2025-01-25T13:45:35.009979Z",
+        "latitude": 65.870144,
+        "longitude": -98.2309
+    },
+    {
+        "timestamp": "2025-01-25T13:45:36.011429Z",
+        "latitude": -26.923826,
+        "longitude": -4.82826
+    },
+    {
+        "timestamp": "2025-01-25T13:45:37.013009Z",
+        "latitude": -6.44886,
+        "longitude": -72.187887
+    },
+    {
+        "timestamp": "2025-01-25T13:45:38.014975Z",
+        "latitude": 11.095335,
+        "longitude": -76.597639
+    },
+    {
+        "timestamp": "2025-01-25T13:45:39.016999Z",
+        "latitude": -88.503107,
+        "longitude": 156.841132
+    },
+    {
+        "timestamp": "2025-01-25T13:45:40.019093Z",
+        "latitude": -24.320531,
+        "longitude": 35.406072
+    },
+    {
+        "timestamp": "2025-01-25T13:45:41.021111Z",
+        "latitude": -16.219829,
+        "longitude": 122.415083
+    },
+    {
+        "timestamp": "2025-01-25T13:45:42.023080Z",
+        "latitude": 49.112306,
+        "longitude": -64.579927
+    },
+    {
+        "timestamp": "2025-01-25T13:45:43.025081Z",
+        "latitude": 59.716431,
+        "longitude": -102.88566
+    },
+    {
+        "timestamp": "2025-01-25T13:45:44.027312Z",
+        "latitude": 4.748152,
+        "longitude": -160.107369
+    },
+    {
+        "timestamp": "2025-01-25T13:45:45.029449Z",
+        "latitude": 13.137189,
+        "longitude": 83.077581
+    },
+    {
+        "timestamp": "2025-01-25T13:45:46.031537Z",
+        "latitude": 16.282951,
+        "longitude": 68.986106
+    },
+    {
+        "timestamp": "2025-01-25T13:45:47.033557Z",
+        "latitude": -4.077646,
+        "longitude": 3.052201
+    },
+    {
+        "timestamp": "2025-01-25T13:45:48.035315Z",
+        "latitude": -37.911675,
+        "longitude": -176.451717
+    },
+    {
+        "timestamp": "2025-01-25T13:45:49.038271Z",
+        "latitude": 7.4333,
+        "longitude": 58.219636
+    },
+    {
+        "timestamp": "2025-01-25T13:45:50.040515Z",
+        "latitude": 33.929248,
+        "longitude": -19.154679
+    },
+    {
+        "timestamp": "2025-01-25T13:45:51.042565Z",
+        "latitude": -50.708244,
+        "longitude": -173.295963
+    },
+    {
+        "timestamp": "2025-01-25T13:45:52.044720Z",
+        "latitude": 21.978503,
+        "longitude": -92.100582
+    },
+    {
+        "timestamp": "2025-01-25T13:45:53.046831Z",
+        "latitude": -43.77164,
+        "longitude": 131.928218
+    },
+    {
+        "timestamp": "2025-01-25T13:45:54.048625Z",
+        "latitude": 89.920823,
+        "longitude": -17.669079
+    },
+    {
+        "timestamp": "2025-01-25T13:45:55.050837Z",
+        "latitude": 22.902065,
+        "longitude": -176.031354
+    },
+    {
+        "timestamp": "2025-01-25T13:45:56.053207Z",
+        "latitude": 21.570763,
+        "longitude": 46.174288
+    },
+    {
+        "timestamp": "2025-01-25T13:45:57.055408Z",
+        "latitude": 38.871546,
+        "longitude": -98.847465
+    },
+    {
+        "timestamp": "2025-01-25T13:45:58.057578Z",
+        "latitude": -70.394414,
+        "longitude": -165.01538
+    },
+    {
+        "timestamp": "2025-01-25T13:45:59.059747Z",
+        "latitude": 73.244098,
+        "longitude": 103.160347
+    },
+    {
+        "timestamp": "2025-01-25T13:46:00.061636Z",
+        "latitude": 47.207007,
+        "longitude": -50.526209
+    },
+    {
+        "timestamp": "2025-01-25T13:46:01.064084Z",
+        "latitude": 81.633112,
+        "longitude": -178.996213
+    },
+    {
+        "timestamp": "2025-01-25T13:46:02.066564Z",
+        "latitude": 86.973993,
+        "longitude": -165.337412
+    },
+    {
+        "timestamp": "2025-01-25T13:46:03.069171Z",
+        "latitude": 16.764639,
+        "longitude": 156.896403
+    },
+    {
+        "timestamp": "2025-01-25T13:46:04.071767Z",
+        "latitude": -65.313022,
+        "longitude": -48.601627
+    },
+    {
+        "timestamp": "2025-01-25T13:46:05.074783Z",
+        "latitude": -7.218775,
+        "longitude": -144.278768
+    },
+    {
+        "timestamp": "2025-01-25T13:46:06.077896Z",
+        "latitude": 64.168258,
+        "longitude": -103.353171
+    },
+    {
+        "timestamp": "2025-01-25T13:46:07.080617Z",
+        "latitude": 83.227722,
+        "longitude": -62.83403
+    },
+    {
+        "timestamp": "2025-01-25T13:46:08.083260Z",
+        "latitude": 81.468966,
+        "longitude": 53.498639
+    },
+    {
+        "timestamp": "2025-01-25T13:46:09.085798Z",
+        "latitude": -37.116477,
+        "longitude": 53.476047
+    },
+    {
+        "timestamp": "2025-01-25T13:46:10.088089Z",
+        "latitude": -3.596368,
+        "longitude": -3.414879
+    },
+    {
+        "timestamp": "2025-01-25T13:46:11.092551Z",
+        "latitude": 79.083255,
+        "longitude": 16.449603
+    },
+    {
+        "timestamp": "2025-01-25T13:46:12.094846Z",
+        "latitude": -28.086897,
+        "longitude": 55.420842
+    },
+    {
+        "timestamp": "2025-01-25T13:46:13.097085Z",
+        "latitude": -31.373374,
+        "longitude": -175.262912
+    },
+    {
+        "timestamp": "2025-01-25T13:46:14.099430Z",
+        "latitude": 42.432889,
+        "longitude": 140.417005
+    },
+    {
+        "timestamp": "2025-01-25T13:46:15.101788Z",
+        "latitude": -42.177859,
+        "longitude": 169.723772
+    },
+    {
+        "timestamp": "2025-01-25T13:46:16.104353Z",
+        "latitude": 56.801823,
+        "longitude": 20.825179
+    },
+    {
+        "timestamp": "2025-01-25T13:46:17.107915Z",
+        "latitude": 31.370546,
+        "longitude": -49.116859
+    },
+    {
+        "timestamp": "2025-01-25T13:46:18.110344Z",
+        "latitude": 24.981802,
+        "longitude": -134.556931
+    },
+    {
+        "timestamp": "2025-01-25T13:46:19.113077Z",
+        "latitude": -83.449626,
+        "longitude": 112.392568
+    },
+    {
+        "timestamp": "2025-01-25T13:46:20.115479Z",
+        "latitude": -35.948882,
+        "longitude": 85.133316
+    },
+    {
+        "timestamp": "2025-01-25T13:46:21.118511Z",
+        "latitude": -83.466725,
+        "longitude": 58.851136
+    },
+    {
+        "timestamp": "2025-01-25T13:46:22.120850Z",
+        "latitude": -17.217535,
+        "longitude": -71.899603
+    },
+    {
+        "timestamp": "2025-01-25T13:46:23.123230Z",
+        "latitude": 79.633883,
+        "longitude": -129.1939
+    },
+    {
+        "timestamp": "2025-01-25T13:46:24.125774Z",
+        "latitude": -18.377348,
+        "longitude": -157.938534
+    },
+    {
+        "timestamp": "2025-01-25T13:46:25.128550Z",
+        "latitude": -33.197209,
+        "longitude": 109.908572
+    },
+    {
+        "timestamp": "2025-01-25T13:46:26.131586Z",
+        "latitude": -16.247276,
+        "longitude": 85.876072
+    },
+    {
+        "timestamp": "2025-01-25T13:46:27.134390Z",
+        "latitude": -21.156798,
+        "longitude": 35.432046
+    },
+    {
+        "timestamp": "2025-01-25T13:46:28.137117Z",
+        "latitude": -65.079758,
+        "longitude": -172.757392
+    },
+    {
+        "timestamp": "2025-01-25T13:46:29.139574Z",
+        "latitude": -0.086168,
+        "longitude": -31.740488
+    },
+    {
+        "timestamp": "2025-01-25T13:46:30.142305Z",
+        "latitude": 13.528429,
+        "longitude": 122.570918
+    },
+    {
+        "timestamp": "2025-01-25T13:46:31.145065Z",
+        "latitude": -58.137989,
+        "longitude": 139.521232
+    },
+    {
+        "timestamp": "2025-01-25T13:46:32.147559Z",
+        "latitude": 37.431191,
+        "longitude": 25.873876
+    },
+    {
+        "timestamp": "2025-01-25T13:46:33.150441Z",
+        "latitude": -63.723841,
+        "longitude": 104.792234
+    },
+    {
+        "timestamp": "2025-01-25T13:46:34.153038Z",
+        "latitude": -36.993741,
+        "longitude": -130.658836
+    },
+    {
+        "timestamp": "2025-01-25T13:46:35.155572Z",
+        "latitude": 75.412214,
+        "longitude": 47.887793
+    },
+    {
+        "timestamp": "2025-01-25T13:46:36.159727Z",
+        "latitude": 30.241086,
+        "longitude": -175.529242
+    },
+    {
+        "timestamp": "2025-01-25T13:46:37.162402Z",
+        "latitude": 65.46264,
+        "longitude": -66.628664
+    },
+    {
+        "timestamp": "2025-01-25T13:46:38.165062Z",
+        "latitude": -28.774502,
+        "longitude": -65.785737
+    },
+    {
+        "timestamp": "2025-01-25T13:46:39.167812Z",
+        "latitude": -42.465511,
+        "longitude": -64.233108
+    },
+    {
+        "timestamp": "2025-01-25T13:46:40.170720Z",
+        "latitude": 62.224279,
+        "longitude": 157.090019
+    },
+    {
+        "timestamp": "2025-01-25T13:46:41.173503Z",
+        "latitude": 44.291485,
+        "longitude": -155.85762
+    },
+    {
+        "timestamp": "2025-01-25T13:46:42.176174Z",
+        "latitude": -36.241374,
+        "longitude": 32.872894
+    },
+    {
+        "timestamp": "2025-01-25T13:46:43.179603Z",
+        "latitude": -79.494809,
+        "longitude": 40.215564
+    },
+    {
+        "timestamp": "2025-01-25T13:46:44.182361Z",
+        "latitude": -48.766568,
+        "longitude": 81.07096
+    },
+    {
+        "timestamp": "2025-01-25T13:46:45.184912Z",
+        "latitude": 13.979257,
+        "longitude": 54.56113
+    },
+    {
+        "timestamp": "2025-01-25T13:46:46.187651Z",
+        "latitude": -36.815731,
+        "longitude": 147.030748
+    },
+    {
+        "timestamp": "2025-01-25T13:46:47.190337Z",
+        "latitude": -4.720964,
+        "longitude": -178.091327
+    },
+    {
+        "timestamp": "2025-01-25T13:46:48.192917Z",
+        "latitude": -12.822531,
+        "longitude": 127.336898
+    },
+    {
+        "timestamp": "2025-01-25T13:46:49.195613Z",
+        "latitude": -42.278034,
+        "longitude": -13.058193
+    },
+    {
+        "timestamp": "2025-01-25T13:46:50.199681Z",
+        "latitude": -85.79324,
+        "longitude": 53.767796
+    },
+    {
+        "timestamp": "2025-01-25T13:46:51.202443Z",
+        "latitude": 50.778961,
+        "longitude": 45.489768
+    },
+    {
+        "timestamp": "2025-01-25T13:46:52.205079Z",
+        "latitude": -70.310958,
+        "longitude": -139.579942
+    },
+    {
+        "timestamp": "2025-01-25T13:46:53.208755Z",
+        "latitude": 24.970057,
+        "longitude": 30.710025
+    },
+    {
+        "timestamp": "2025-01-25T13:46:54.211800Z",
+        "latitude": -34.94041,
+        "longitude": -126.626858
+    },
+    {
+        "timestamp": "2025-01-25T13:46:55.215174Z",
+        "latitude": 21.969626,
+        "longitude": 2.431183
+    },
+    {
+        "timestamp": "2025-01-25T13:46:56.217961Z",
+        "latitude": -78.749893,
+        "longitude": -59.822005
+    },
+    {
+        "timestamp": "2025-01-25T13:46:57.220757Z",
+        "latitude": -73.798949,
+        "longitude": 37.561481
+    },
+    {
+        "timestamp": "2025-01-25T13:46:58.223682Z",
+        "latitude": 75.609385,
+        "longitude": 74.401933
+    },
+    {
+        "timestamp": "2025-01-25T13:46:59.228251Z",
+        "latitude": -31.178213,
+        "longitude": -42.665766
+    },
+    {
+        "timestamp": "2025-01-25T13:47:00.231340Z",
+        "latitude": 52.458865,
+        "longitude": 84.26745
+    },
+    {
+        "timestamp": "2025-01-25T13:47:01.234654Z",
+        "latitude": 29.132857,
+        "longitude": 41.010645
+    },
+    {
+        "timestamp": "2025-01-25T13:47:02.237497Z",
+        "latitude": 40.799264,
+        "longitude": -113.686782
+    },
+    {
+        "timestamp": "2025-01-25T13:47:03.240307Z",
+        "latitude": 69.5701,
+        "longitude": 81.507156
+    }
+]
