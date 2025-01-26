@@ -1,8 +1,11 @@
 GPS API - FastAPI Backend
+
 Overview
+
 A simple FastAPI backend to store and process GPS data. Includes endpoints for uploading GPS coordinates, retrieving stored data, and calculating the average latitude and longitude.
 
 Installation
+
 Clone or Download the project.
 
 Install Dependencies:
